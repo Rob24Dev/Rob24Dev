@@ -1,5 +1,5 @@
 <h1 style="font-size:20vw">⊂ 𝐇𝐢, 𝐈'𝐦 𝐑𝐨𝐛𝟐𝟒𝐃𝐞𝐯👋 ⊃</h1>
-<p style="font-size:15vw">𝙴𝚖𝚊𝚒𝚕: 𝚛𝚘𝚋𝟸𝟺𝚍𝚎𝚟@𝚛𝚘𝚋𝟸𝟺.𝚎𝚞 𝙳𝚒𝚜𝚌𝚘𝚛𝚍: 𝚁𝚘𝚋𝟸𝟺𝙳𝚎𝚟#𝟺𝟷𝟹𝟾</p>
+<p style="font-size:15vw">𝙴𝚖𝚊𝚒𝚕: 𝚛𝚘𝚋𝟸𝟺𝚍𝚎𝚟@𝚛𝚘𝚋𝟸𝟺.𝚎𝚞 𝙳𝚒𝚜𝚌𝚘𝚛𝚍: 𝚁𝚘𝚋𝟸𝟺𝙳𝚎𝚟#0001</p>
 <h1 style="border-radius:15px"/>┗  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" style="width:24px;height:24px;"> 𝗝𝗔𝗩𝗔 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥  <br> <br> ┗ <img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" style="width:24px;height:24px;"> 𝗚𝗔𝗠𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 <br> <br> ┗ <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" style="width:24px;height:24px;"> 𝗖# 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 </h1>
 <h1 style="font-size:20vw">𝗛𝗢𝗕𝗕𝗜𝗘𝗦</h1>
 <h1 style="font-size:15vw">
