@@ -9,6 +9,6 @@
 ┗ <img src="https://cdn-icons-png.flaticon.com/128/2335/2335279.png" style="width:28px;height:28px;"> Discord Server Setup <br> 
 ┗ <img src="https://i.ibb.co/1Mhfr32/Five-M-Logo.png" style="width:32px;height:32px; alt="Five-M-Logo"> FiveM Server Setup</h1>
 <h1 style="font-size:20vw">𝗪𝗛𝗔𝗧 𝗔𝗠 𝗜 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗢𝗡?</h1>
-<h1 style="font-size:15vw">┗ RevenantDevelopments <br> &ensp; ┗ A team that makes plugins and discord bots for peoples. <br> &ensp; ┗ Status: Coming Soon!  <br> ┗ NewTonium Studio <br> &ensp; ┗ A studio that will make computer and mobile games. <br> &ensp; ┗ Status: Coming Soon!</h1>
+<h1 style="font-size:15vw">┗ RevenantDevelopments <br> &ensp; ┗ A team that makes plugins and discord bots for peoples. <br> &ensp; ┗ Status: Coming Soon! </h1>
 <p style="font-size:15vw"><br></p>
 <h1 style="font-size:160%">⊂ 𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔 𝐅𝐎𝐑 𝐕𝐈𝐄𝐖𝐈𝐍𝐆 𝐌𝐘 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 🙏 ⊃</h1>
