@@ -6,8 +6,8 @@
 ┗ <img src="https://cdn-icons-png.flaticon.com/128/2420/2420249.png" style="width:28px;height:28px;"> Programming(Games,Discord Bots, MCPlugins, Applications)  <br> 
 ┗ <img src="https://cdn-icons-png.flaticon.com/128/4257/4257483.png" style="width:28px;height:28px;"> Technology  <br> 
 ┗ <img src="https://cdn-icons-png.flaticon.com/128/1409/1409036.png" style="width:28px;height:28px;"> Minecraft Server Setup  <br> 
-┗ <img src="https://cdn-icons-png.flaticon.com/128/2335/2335279.png" style="width:28px;height:28px;"> Discord Server Setup</h1>
-┗ <img src="https://i.ibb.co/1Mhfr32/Five-M-Logo.png" style="width:28px;height:28px; alt="Five-M-Logo" border="0" /> FiveM Server Setup</a>
+┗ <img src="https://cdn-icons-png.flaticon.com/128/2335/2335279.png" style="width:28px;height:28px;"> Discord Server Setup <br> 
+┗ <img src="https://i.ibb.co/1Mhfr32/Five-M-Logo.png" style="width:28px;height:28px; alt="Five-M-Logo"> FiveM Server Setup</h1>
 <h1 style="font-size:20vw">𝗪𝗛𝗔𝗧 𝗔𝗠 𝗜 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗢𝗡?</h1>
 <h1 style="font-size:15vw">┗ RevenantDevelopments <br> &ensp; ┗ A team that makes plugins and discord bots for peoples. <br> &ensp; ┗ Status: Coming Soon!  <br> ┗ NewTonium Studio <br> &ensp; ┗ A studio that will make computer and mobile games. <br> &ensp; ┗ Status: Coming Soon!</h1>
 <p style="font-size:15vw"><br></p>
