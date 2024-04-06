@@ -1,15 +1,16 @@
-<h1 style="font-size:20vw">⊂ 𝐇𝐢, 𝐈'𝐦 𝐑𝐨𝐛𝟐𝟒𝐃𝐞𝐯👋 ⊃</h1>
-<p style="font-size:15vw">𝙴𝚖𝚊𝚒𝚕: 𝚛𝚘𝚋𝟸𝟺𝚍𝚎𝚟@𝚛𝚘𝚋𝟸𝟺.𝚎𝚞 𝙳𝚒𝚜𝚌𝚘𝚛𝚍: robdev24</p>
-<img src="https://github-readme-stats.vercel.app/api?username=rob24dev&theme=shadow_red&show_icons=true">
-<h1 style="border-radius:15px"/>┗  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" style="width:24px;height:24px;"> 𝗝𝗔𝗩𝗔 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥  <br> <br> ┗ <img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" style="width:24px;height:24px;"> 𝗚𝗔𝗠𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 <br> <br> ┗ <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" style="width:24px;height:24px;"> 𝗖# 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 </h1>
-<h1 style="font-size:20vw">𝗛𝗢𝗕𝗕𝗜𝗘𝗦</h1>
-<h1 style="font-size:15vw">
-┗ <img src="https://cdn-icons-png.flaticon.com/128/2420/2420249.png" style="width:28px;height:28px;"> Programming(Games,Discord Bots, MCPlugins, Applications)  <br> 
-┗ <img src="https://cdn-icons-png.flaticon.com/128/4257/4257483.png" style="width:28px;height:28px;"> Technology  <br> 
-┗ <img src="https://cdn-icons-png.flaticon.com/128/1409/1409036.png" style="width:28px;height:28px;"> Minecraft Server Setup  <br> 
-┗ <img src="https://cdn-icons-png.flaticon.com/128/2335/2335279.png" style="width:28px;height:28px;"> Discord Server Setup <br> 
-┗ <img src="https://i.ibb.co/1Mhfr32/Five-M-Logo.png" style="width:32px;height:32px; alt="Five-M-Logo"> FiveM Server Setup</h1>
-<h1 style="font-size:20vw">𝗪𝗛𝗔𝗧 𝗔𝗠 𝗜 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗢𝗡?</h1>
-<h1 style="font-size:15vw">┗ RevenantDevelopments <br> &ensp; ┗ A team that makes plugins and discord bots for peoples. <br> &ensp; ┗ Status: Coming Soon! </h1>
-<p style="font-size:15vw"><br></p>
-<h1 style="font-size:160%">⊂ 𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔 𝐅𝐎𝐑 𝐕𝐈𝐄𝐖𝐈𝐍𝐆 𝐌𝐘 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 🙏 ⊃ </h1>
+<h1 align="center">Hi 👋, I'm Rob24Dev</h1>
+<h3 align="center">I am 15 years old and I am mainly a java developer</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/rob24dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rob24dev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rob24dev&show_icons=true&locale=en&layout=compact" alt="rob24dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rob24dev&show_icons=true&locale=en" alt="rob24dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rob24dev&" alt="rob24dev" /></p>
