@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rob24Dev</h1>
-<h3 align="center">I am 15 years old and I am mainly a java developer</h3>
+<h3 align="center">I'm 15 years old and I'm mainly a java developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
