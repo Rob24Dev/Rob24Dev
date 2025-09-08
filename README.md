@@ -62,7 +62,7 @@
 
 <b>2023</b> - <i>Developer on Minecraft Server</i> <b href="https://halmine.cz/">Halmine.cz</b> (Java - Spigot API)
 
-<b>2023</b> - <i>Developer on Minecraft Server</i> <b>MajkyLand.cz</b> (Java - Spigot API/JDA)
+<b>2023</b> - <i>Developer on Minecraft Server</i> <b>MajkyLand.eu</b> (Java - Spigot API/JDA)
 
 <b>2022</b> - <i>Developer on several small Minecraft servers</i> <b>Silver-Range.cz,DiaWorlds.eu,DeoLand.cz</b> (Java - Spigot API/JDA)
 
