@@ -25,7 +25,7 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/a87de8ee-7194-4839-a186-4b6e340cb372" alt="javafx" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
