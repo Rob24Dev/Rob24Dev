@@ -64,7 +64,7 @@
 
 <b>2023</b> - <i>Developer on Minecraft Server</i> <b>MajkyLand.eu</b> (Java - Spigot API/JDA)
 
-<b>2022</b> - <i>Developer on several small Minecraft servers</i> <b>Silver-Range.cz,DiaWorlds.eu,DeoLand.cz</b> (Java - Spigot API/JDA)
+<b>2022</b> - <i>Developer on several small Minecraft servers</i> <b>Silver-Range.eu,DiaWorlds.eu,DeoLand.cz</b> (Java - Spigot API/JDA)
 
 <b>2020-2022</b> - <i>Founder/Developer/Technician</i> of Minecraft Server <b>Enter-Play.eu (former Robo-Craft.cz)</b>
 
