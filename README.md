@@ -29,4 +29,4 @@
 
 <h3 align="center">📈 My GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rob24dev&theme=shadow_red&show_icons=true&locale=en&layout=compact" alt="rob24dev" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob24Dev&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
