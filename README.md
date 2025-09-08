@@ -4,7 +4,7 @@
 <h3 align="center">🌐 Where can you contact me?</h3>
 <p align="center">
 <a href="https://www.instagram.com/_darvas.robert_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="40" /></a>
-<a href="mailto:darvasrobert65@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c6ef490a-2f96-4b02-a7f7-dbbddf991355" alt="e-mail" height="50" width="40" /></a>
+<a href="mailto:darvasrobert65@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ccd04eed-784d-418a-95df-d1bf52789923" alt="e-mail" height="50" width="40" /></a>
 </p>
 
 <h3 align="center">🧑‍💻 Tech Stack:</h3>
