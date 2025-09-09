@@ -55,7 +55,7 @@
   </a>
 </p>
 
-<h3 align="center">💫 My Five Years Experience with Minecraft Servers:</h3>
+<h3 align="center">⭐ My Five Years Experience with Minecraft Servers:</h3>
 
 <b>2025</b> - <i>Lead Developer/Developer</i> on Minecraft Server <b href="https://ravaryn.cz/">Ravaryn.cz</b> (Java - Spigot API/JDA)
 
