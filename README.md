@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rob</h1>
-<h3 align="center">I'm a young 17-year-old Software Developer from the Czech Republic.</h3>
-<h3 align="center">I mainly program in Minecraft(Spigot API), but I also enjoy exploring other technologies.</h3>
+<h3 align="center">I'm a young 17-year-old Software Developer from the Czech Republic. 💻</h3>
+<h3 align="center">I mainly program in Minecraft(Spigot API), but I also enjoy exploring other technologies. 🧑‍💻</h3>
 <h3 align="center">🌐 Where can you contact me?</h3>
 <p align="center">
 <a href="https://www.instagram.com/rob24dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="40" /></a>
@@ -67,7 +67,3 @@
 <b>2022</b> - <i>Developer on several small Minecraft servers</i> <b>Silver-Range.eu,DiaWorlds.eu,DeoLand.cz</b> (Java - Spigot API/JDA)
 
 <b>2020-2022</b> - <i>Founder/Developer/Technician</i> of Minecraft Server <b>Enter-Play.eu (former Robo-Craft.cz)</b>
-
-<h3 align="center">📈 My GitHub Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob24Dev&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
