@@ -56,8 +56,6 @@
 
 <h3 align="center">⭐ My Six Years Experience with Minecraft Servers:</h3>
 
-<b>March 2026/Now</b> - <i>Founder/Developer/Technician</i> of Minecraft Server <b>Zakopey.cz</b>
-
 <b>2024/March 2026</b> - <i>Developer, Recruitment Assistant</i> on Minecraft Server <b href="https://darkup.cz/">Darkup.cz</b> (Java - Spigot API,MySQL, Sonatype Nexus Repository)
 
 <b>2025</b> - <i>Lead Developer/Developer</i> on Minecraft Server <b href="https://ravaryn.cz/">Ravaryn.cz</b> (Java - Spigot API/JDA)
