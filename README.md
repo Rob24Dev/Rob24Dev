@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm Rob</h1>
+<h1 align="center">Hello 👋, I'm Rob </h1> 
 <h3 align="center">I'm a young 17-year-old Software Developer from the Czech Republic. 💻</h3>
-<h3 align="center">I mainly program in Minecraft(Spigot API), but I also enjoy exploring other technologies. 🧑‍💻</h3>
+<h3 align="center">I mainly code in Java, but I also enjoy exploring other languages and technologies. 🧑‍💻</h3>
 <h3 align="center">🌐 Where can you contact me?</h3>
 <p align="center">
 <a href="https://www.instagram.com/rob24dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="40" /></a>
@@ -53,17 +53,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   </a>
 </p>
+<h3 align="center">⭐ Stats:</h3>
 
-<h3 align="center">⭐ My Six Years Experience with Minecraft Servers:</h3>
+![Wakatime Stats](https://wakatime.com/badge/user/4e5dc770-085d-4f92-bc40-68df1a41bff6.svg)
 
-<b>2024/March 2026</b> - <i>Developer, Recruitment Assistant</i> on Minecraft Server <b href="https://darkup.cz/">Darkup.cz</b> (Java - Spigot API,MySQL, Sonatype Nexus Repository)
-
-<b>2025</b> - <i>Lead Developer/Developer</i> on Minecraft Server <b href="https://ravaryn.cz/">Ravaryn.cz</b> (Java - Spigot API/JDA)
-
-<b>2023</b> - <i>Developer on Minecraft Server</i> <b href="https://halmine.cz/">Halmine.cz</b> (Java - Spigot API)
-
-<b>2023</b> - <i>Developer on Minecraft Server</i> <b>MajkyLand.eu</b> (Java - Spigot API/JDA)
-
-<b>2022</b> - <i>Developer on several small Minecraft servers</i> <b>Silver-Range.eu,DiaWorlds.eu,DeoLand.cz</b> (Java - Spigot API/JDA)
-
-<b>2020/2022</b> - <i>Founder/Developer/Technician</i> of Minecraft Server <b>Enter-Play.eu (former Robo-Craft.cz)</b>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rob24Dev&show_icons=true&theme=shadow_red)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rob24Dev&theme=shadow-red&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rob24Dev&layout=compact&theme=shadow_red)
