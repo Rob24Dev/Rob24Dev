@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rob </h1> 
 <h3 align="center">I'm a young 17-year-old Software Developer from the Czech Republic. 💻</h3>
 <h3 align="center">I mainly code in Java, but I also enjoy exploring other languages and technologies. 🧑‍💻</h3>
-<h3 align="center">I have 6+ years experience with development. ⚡</h3>
+<h3 align="center">I have 5+ years experience with development. ⚡</h3>
 <h3 align="center">🌐 Where can you contact me?</h3>
 <p align="center">
 <a href="https://www.instagram.com/rob24dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="40" /></a>
