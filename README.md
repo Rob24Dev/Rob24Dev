@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rob </h1> 
-<h3 align="center">I'm a young 17-year-old Software Developer from the Czech Republic. 💻</h3>
+<h3 align="center">I'm a young 18-year-old Software Developer from the Czech Republic. 💻</h3>
 <h3 align="center">I mainly code in Java, but I also enjoy exploring other languages and technologies. 🧑‍💻</h3>
 <h3 align="center">I have 5+ years experience with development. ⚡</h3>
 <h3 align="center">🌐 Where can you contact me?</h3>
