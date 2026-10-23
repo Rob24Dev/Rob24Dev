@@ -56,7 +56,7 @@
 </p>
 <h3 align="center">⭐ Stats:</h3>
 
-![Wakatime Stats](https://wakatime.com/badge/user/4e5dc770-085d-4f92-bc40-68df1a41bff6.svg)
+![Wakatime Stats](https://wakatime.com/badge/user/4e5dc770-085d-4f92-bc40-68df1a41bff6.svg) (since 11/2025)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rob24Dev&show_icons=true&theme=shadow_red)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rob24Dev&theme=shadow-red&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
